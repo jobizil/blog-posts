@@ -42,7 +42,9 @@ In this function, we use crypto.createHash method to create a SHA-256 hash objec
 
 To run the code above, open your terminal and locate the directory where your file is and run the command below:
 
+```javascript
 node index.js
+```
 
 We should have the hashed password printed in the terminal.
 
